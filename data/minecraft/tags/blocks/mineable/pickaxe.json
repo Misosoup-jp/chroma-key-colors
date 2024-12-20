@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "chroma_key_colors:rb",
+    "chroma_key_colors:bb",
+    "chroma_key_colors:gb"
+  ]
+}

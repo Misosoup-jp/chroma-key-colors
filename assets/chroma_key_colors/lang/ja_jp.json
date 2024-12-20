@@ -1,0 +1,6 @@
+{
+  "item_group.chroma_key_colors.chromakey": "chroma key colors",
+  "block.chroma_key_colors.gb": "グリーンバック",
+  "block.chroma_key_colors.bb": "ブルーバック",
+  "block.chroma_key_colors.rb": "レッドバック"
+}

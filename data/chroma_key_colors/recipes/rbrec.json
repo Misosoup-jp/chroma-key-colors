@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:red_concrete"
+    },
+    {
+      "item": "minecraft:red_concrete"
+    },
+    {
+      "item": "minecraft:red_concrete"
+    },
+    {
+      "item": "minecraft:red_concrete"
+    }
+  ],
+  "result": {
+    "item": "chroma_key_colors:rb",
+    "count": 12
+  }
+}
